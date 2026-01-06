@@ -1,0 +1,17 @@
+.gritting {
+    color:wheat;
+    padding:10px 20px;
+}
+.main {
+    background-color: rgba(92, 56, 56, 0);
+    text-align: center;
+}
+.link {
+    text-decoration: none;
+    color:darkred;
+}
+.home_link {
+    color:firebrick;
+    text-decoration: none;
+
+}
